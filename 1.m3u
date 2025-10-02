@@ -1,0 +1,9 @@
+#EXTM3U catchup="flussonic"
+
+#EXTINF:0 tvg-id="RTL.de" tvg-name="RTL HD DE" tvg-logo="https://ip-tv.dev/images/ico/de/rtl-de.png"  tvg-rec="5" timeshift="5", RTL HD DE
+#EXTGRP:Deutsch
+http://gr.seetv.cc/play/801/B34F11C32439EAC/video.m3u8
+
+#EXTINF:0 tvg-id="Sky.Sport.F1.de" tvg-name="Sky Sports F1 HD" tvg-logo="https://ip-tv.dev/images/epg/9923.png?v1743758303"  tvg-rec="5" timeshift="5", Sky Sports F1 HD
+#EXTGRP:Deutsch
+http://gr.seetv.cc/play/9923/B34F11C32439EAC/video.m3u8
