@@ -1,0 +1,5 @@
+#EXTM3U catchup="flussonic"
+
+#EXTINF:0 tvg-id="RTL.Passion.de" tvg-name="RTL Passion HD" tvg-logo="https://ip-tv.dev/images/epg/1009.png?v1743758128"  tvg-rec="5" timeshift="5", RTL Passion
+#EXTGRP:Deutsch
+http://gr.seetv.cc/play/1009/B34F11C32439EAC/video.m3u8
