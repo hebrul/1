@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="DE: Das Erste" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste
 #EXTGRP:Deutsch
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+http://daserste_hd-lh.akamaihd.net/i/daserste_de@442080/master.m3u8
 
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="DE: ZDF" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF
 #EXTGRP:Deutsch
