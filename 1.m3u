@@ -1,0 +1,110 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="DE: Das Erste" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste
+#EXTGRP:Deutsch
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="DE: ZDF" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF
+#EXTGRP:Deutsch
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="ARTE.de" tvg-id="ARTE.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE
+#EXTGRP:Deutsch
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+
+#EXTINF:-1 tvg-name="ZDFinfo.de" tvg-id="ZDFinfo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo
+#EXTGRP:Deutsch
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="ZDFneo.de" tvg-id="ZDFneo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png",ZDFneo
+#EXTGRP:Deutsch
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="RBB.de" tvg-id="RBB.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png",RBB Berlin
+#EXTGRP:Deutsch
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
+
+#EXTINF:-1 tvg-name="NDR.de" tvg-id="NDR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Niedersachsen
+#EXTGRP:Deutsch
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+
+#EXTINF:0 tvg-id="RTLZWEI.de" tvg-name="RTL Zwei HD" tvg-logo="https://ip-tv.dev/images/ico/de/rtl-zwei-de.png"  tvg-rec="5" timeshift="5", RTL Zwei
+#EXTGRP:Deutsch
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
+
+#EXTINF:0 tvg-id="VOX.de" tvg-name="VOX HD DE" tvg-logo="https://ip-tv.dev/images/epg/813.png?v1743758768"  tvg-rec="5" timeshift="5", VOX
+#EXTGRP:Deutsch
+https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
+
+#EXTINF:0 tvg-id="ntv.de" tvg-name="n-tv HD DE" tvg-logo="https://ip-tv.dev/images/epg/802.png?v1743758182"  tvg-rec="5" timeshift="5", n-tv
+#EXTGRP:Deutsch
+https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
+
+#EXTINF:-1 tvg-name="tagesschau24.de" tvg-id="tagesschau24.de" group-title="Vollprogramm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tagesschau24HD.svg/960px-Tagesschau24HD.svg.png",Tagesschau 24
+#EXTGRP:Deutsch
+https://tagesschau.akamaized.net/hls/live/2020117/tagesschau/tagesschau_3/master.m3u8
+
+#EXTINF:-1 tvg-name="PHOENIX.de" tvg-id="PHOENIX.de" group-title="Vollprogramm" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/5/57/Phoenix_HD_Logo_2021.png/799px-Phoenix_HD_Logo_2021.png",PHOENIX
+#EXTGRP:Deutsch
+http://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+
+#EXTINF:-1 tvg-name="ARD.alpha.de" tvg-id="ARD.alpha.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
+#EXTGRP:Deutsch
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-name="3sat.de" tvg-id="3sat.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
+#EXTGRP:Deutsch
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="WDR.de" tvg-id="WDR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR
+#EXTGRP:Deutsch
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+
+#EXTINF:-1 tvg-name="SWR/SR.de" tvg-id="SWR/SR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Baden-Württemberg
+#EXTGRP:Deutsch
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+
+#EXTINF:-1 tvg-name="BR.de" tvg-id="BR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen
+#EXTGRP:Deutsch
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-name="MDR.de" tvg-id="MDR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+
+#EXTINF:-1 tvg-name="HR.de" tvg-id="HR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",HR Fernsehen
+#EXTGRP:Deutsch
+https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
+
+#EXTINF:-1 tvg-name="SWR/SR.de" tvg-id="SWR/SR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR Fernsehen
+#EXTGRP:Deutsch
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+
+#EXTINF:0 tvg-id="NITRO.de" tvg-name="NITRO HD" tvg-logo="https://ip-tv.dev/images/epg/5132.png?v1743759489"  tvg-rec="5" timeshift="5", NITRO
+#EXTGRP:Deutsch
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
+
+#EXTINF:-1 tvg-name="ONE.de" tvg-id="ONE.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",One
+#EXTGRP:Deutsch
+https://mcdn-one.ard.de/ardone/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="Welt.der.Wunder.TV.de" tvg-name="DE: Welt der Wunder" tvg-id="DE: Welt der Wunder" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/weltderwunder.png",Welt der Wunder
+#EXTGRP:Deutsch
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Dokusat" tvg-id="Dokusat.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png",Dokusat
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+
+#EXTINF:0 tvg-id="RTL.de" tvg-name="RTL HD DE" tvg-logo="https://ip-tv.dev/images/ico/de/rtl-de.png"  tvg-rec="5" timeshift="5", RTL
+#EXTGRP:Deutsch
+https://strm.hdtvizlecanli.com/live/rtl.m3u8
+
+#EXTINF:0 tvg-id="KIKA.de" tvg-name="KIKA HD DE" tvg-logo="https://ip-tv.dev/images/epg/823.png?v1743759840"  tvg-rec="5" timeshift="5", KIKA
+#EXTGRP:Deutsch
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.de",Nickelodeon
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+
+#EXTINF:0 tvg-id="Disney.Channel.de" tvg-name="Disney HD DE" tvg-logo="https://ip-tv.dev/images/epg/819.png?v1743759238"  tvg-rec="5" timeshift="5", Disney Channel
+#EXTGRP:Deutsch
+https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
